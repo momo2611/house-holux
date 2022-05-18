@@ -10,4 +10,4 @@
 
 Coding website with this tutorial. [Bedimcode](https://youtu.be/twRLgPsP1H0)
 
-![preview img](/preview.png)
+![preview img](./preview.png)
